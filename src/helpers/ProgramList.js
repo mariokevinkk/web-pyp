@@ -11,14 +11,14 @@ export const ProgramList = [
   {
     name: "seventhstudios",
     image: PedroTechSpecial,
-    keterangan: "Kami dapat merancang user interface yang bersih, elegan, dan mudah digunakan. Kami telah membuat banyak desain web & seluler yang digunakan oleh lusinan orang saat ini. Jika Anda ingin meningkatkan pendapatan online Anda dengan meningkatkan kehadiran online Anda, hubungi kami untuk mewujudkannya dengan Seventh Studios!",
+    keterangan: "Kami dapat merancang user interface yang bersih, elegan, dan mudah digunakan.",
     price: 223.001,
   },
   
   {
     name: "medilshan",
     image: Pineapple,
-    keterangan: "Menggunakan AppSheet, kami dapat merancang dan meluncurkan aplikasi lengkap dari ujung ke ujung. Secara keseluruhan, ini adalah platform yang fantastis — dan sempurna untuk organisasi sipil mana pun yang ingin meningkatkan manajemen informasi dan distribusi sumber daya.",
+    keterangan: "Menggunakan AppSheet, kami dapat merancang dan meluncurkan aplikasi lengkap dari ujung ke ujung.",
     price: 135.002,
   },
   

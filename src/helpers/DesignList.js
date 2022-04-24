@@ -9,14 +9,14 @@ export const DesignList = [
   {
     name: "ajayviknesh",
     image: td,
-    keterangan: "Saya akan melakukan 3D Modeling dan Texturing, Shading, Lighting, dan Rendering untuk Anda. Jika Anda memiliki Model yang tepat, saya juga dapat membuat teksturnya untuk Anda. Saya memiliki keahlian dalam Pemodelan Eksterior, Interior, Aset, dan Produk.",
+    keterangan: "Saya akan melakukan 3D Modeling dan Texturing, Shading, Lighting, dan Rendering untuk Anda.",
     price: 159.999,
 
   },
   {
     name: "gelofart",
     image: Margherita,
-    keterangan: "Saya dapat menggambar dalam banyak gaya: anime, kartun, realistis, Disney, Pixar, semi-realisme, dan lain-lain. Beri saya referensi. Tolong berikan saya referensi ke sudut mana Anda ingin latar belakang Anda diambil. Dan referensi lain untuk BG Anda akan berguna.",
+    keterangan: "Saya dapat menggambar dalam banyak gaya: anime, kartun, realistis, Disney, Pixar, semi-realisme, dan lain-lain. ",
     price: 345.006,
   },
  
