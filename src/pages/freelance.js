@@ -15,8 +15,7 @@ function freelance() {
   <label htmlFor="email">Email</label>
   <input name="email" placeholder="Masukan email..." type="email" />
   
-  <label htmlFor="name">Tempat,tanggal lahir</label>
-  <input  placeholder="Masukan tempat,tanggal lahir anda..." type="text" />
+
   <label htmlFor="name">Masukan keterangan tentang anda(pengalaman,skil,dll)</label>
   <input  placeholder="Masukan tempat,tanggal lahir anda..." type="text" />
  
