@@ -4,6 +4,7 @@ import MenuItem from "../components/MenuItem";
 import "../styles/Menu.css";
 import { Link } from "react-router-dom";
 import Kategori from "../components/Kategori";
+import { MarketingList } from "./MarketingList";
 
 function Menu() {
   return (
@@ -11,7 +12,7 @@ function Menu() {
      <Kategori/>
       <h1 className="menuTitle">Our Freelancer</h1>
       <div className="menuList">
-        {MenuList.map((menuItem, key) => {
+        {MarketingList.map((menuItem, key) => {
           return (
             <MenuItem
               key={key}
@@ -28,3 +29,4 @@ function Menu() {
 }
 
 export default Menu;
+

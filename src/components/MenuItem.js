@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function MenuItem({ image, name, price ,keterangan}) {
   return (
@@ -7,6 +8,7 @@ function MenuItem({ image, name, price ,keterangan}) {
       <h1> {name} </h1>
       <p> {keterangan} </p>
       <p> Rp.{price} </p>
+      <button type="submit">Pesan</button>
 
       
     </div>

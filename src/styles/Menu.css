@@ -34,6 +34,20 @@
   cursor: pointer;
 }
 
+.menuItem button {
+  margin-top: 40px;
+  width: 140px;
+  height: 40px;
+  border: none;
+  background-color: #121619;
+  color: whitesmoke;
+  font-size: 15px;
+  cursor: pointer;
+  justify-content: center;
+  
+  
+}
+
 .menuItem div {
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
