@@ -8,7 +8,7 @@ import Kategori from "../components/Kategori";
 function Menu() {
   return (
     <div className="menu">
-     <Kategori/>
+     <Kategori />
       <h1 className="menuTitle">Our Freelancer</h1>
       <div className="menuList">
         {MenuList.map((menuItem, key) => {

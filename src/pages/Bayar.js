@@ -1,9 +1,9 @@
 import React from 'react'
-
+import "../styles/bayar.css";
 function Bayar() {
     return (
-        <div className="bayar">
-          <div>
+        <div className='bayar'>
+          <div >
             <h3>Nama : ajayviknesh</h3>
             <h3>Harga: Rp.159.999(Harga sudah termasuk biaya Pemesanan)</h3>
             <h3>Metode Pembayaran:</h3>

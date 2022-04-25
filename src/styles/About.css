@@ -38,4 +38,8 @@
   display: flex;
   justify-content: center;
   transform: translateY(-40px);
+  
+}
+.about {
+  padding-bottom: 1cm;
 }
