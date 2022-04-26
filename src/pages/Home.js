@@ -11,7 +11,7 @@ function Home() {
       
       <div className="headerContainer">
         <h1> Kampung Freelance </h1>
-        <p> #DariRumahSaja</p>
+        <p> #MudahkanUsahamu</p>
         <Link to="/order">
           <button> Cari Freelance </button>
         </Link>
