@@ -19,7 +19,9 @@ function Contact() {
           <label htmlFor="password">Password</label>
           <input name="passsword" placeholder="Masukan password..." type="password" />
           
-          <button type="submit">Login</button>
+          <Link to="/">
+          <button> Login </button>
+        </Link>
         </form>
       </div>
     </div>
